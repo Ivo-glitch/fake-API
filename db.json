@@ -1,0 +1,49 @@
+{
+  "entrevistas" : [
+    {
+        "id" : 1,
+        "nombreApellido" : Lucio Quiñonez,
+        "fecha" : "04/05/2022 10:00:00",
+        "entrevistado" : true
+    },
+    {
+        "id" : 2,
+        "nombreApellido" : Federico Lotitto,
+        "fecha" : "05/05/2022 10:00:00",
+        "entrevistado" : true
+    },
+    {
+        "id" : 3,
+        "nombreApellido" : German Heichemberger,
+        "fecha" : "06/05/2022 10:00:00",
+        "entrevistado" : true
+    },
+    {
+        "id" : 4,
+        "nombreApellido" : Nahuel Monin,
+        "fecha" : "09/05/2022 10:00:00",
+        "entrevistado" : true
+    },
+    
+    {
+        "id" : 5,
+        "nombreApellido" : Nahuel Burgos,
+        "fecha" : "10/05/2022 10:00:00",
+        "entrevistado" : true
+    },
+    
+    {
+        "id" : 6,
+        "nombreApellido" : Nicolas Cancela,
+        "fecha" : "26/05/2022 10:00:00",
+        "entrevistado" : false
+    },
+    
+    {
+        "id" : 7,
+        "nombreApellido" : Matias Botteri,
+        "fecha" : "29/05/2022 10:00:00",
+        "entrevistado" : false
+    },
+  ]
+}
