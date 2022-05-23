@@ -30,7 +30,7 @@
         "nombreApellido" : "Nahuel Burgos",
         "fecha" : "10/05/2022 10:00:00",
         "entrevistado" : true
-    }
+    },
     
     {
         "id" : 6,
@@ -44,6 +44,6 @@
         "nombreApellido" : "Matias Botteri",
         "fecha" : "29/05/2022 10:00:00",
         "entrevistado" : false
-    },
+    }
   ]
 }
